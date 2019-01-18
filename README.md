@@ -3,6 +3,12 @@ This is a simple and powerful example to implement React applications in SSR mod
 
 ## How to use ?
 
+first install node packages:
+
+```
+npm install
+```
+
 for development mode run this command :
 
 ```
